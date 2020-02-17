@@ -8,4 +8,4 @@ Our goal is to create a Convolutional Neural Network model that can accurately d
 
 Please let us know if you have any questions.
 
-- Anirudh and Harshil
+-- Anirudh and Harshil
